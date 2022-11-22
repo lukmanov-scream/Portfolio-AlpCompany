@@ -101,7 +101,7 @@ body {
     margin: 0;
     /*font-family: 'Gilroy';*/
     background-color: #04131A;
-    background-image: url('./../bg/BG.jpg');
+    background-image: url(./../bg/bg.jpg);
     background-size: 100% auto;
     background-repeat: no-repeat; 
     color: #fff;
